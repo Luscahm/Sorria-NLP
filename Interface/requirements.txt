@@ -1,0 +1,12 @@
+appdirs==1.4.4
+attrs==22.1.0
+backports.csv==1.0.7
+beautifulsoup4==4.11.1
+Flask
+html5lib==1.1
+huggingface-hub
+numpy
+regex
+sentence-transformers
+torch
+transformers
